@@ -79,3 +79,10 @@ Either, via the [JavaScript File](./script.js) or copy the code here:
     }
 })();
 ```
+
+<br>
+
+## Credits
+
+Thanks to `Manessah de Graaf` for the idea + the original code, on [Adonis School](https://www.skool.com/adonis). <br>
+If you want to join, you can use my [Affiliate Link](https://samuelweghofer--hamza.thrivecart.com/adonis-school-membership-copy-5/) to join! :) 
